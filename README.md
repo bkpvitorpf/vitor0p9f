@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vítor.
+### Hi there 👋, my name is Vitor.
 #### I am front-end dev.
 ![I am front-end dev.](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
