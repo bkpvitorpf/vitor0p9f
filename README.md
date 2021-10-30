@@ -2,8 +2,6 @@
 
 #### I'm front-end dev.
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-
 I'm currently studying about the wonders of WEB development, seeking to improve my knowledge in order to improve as a professional in the field of programming.
 
 ##
@@ -34,7 +32,7 @@ I'm currently studying about the wonders of WEB development, seeking to improve 
 
 <div>
   <a href="https://github.com/vitor0p9f" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor0p9f&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor0p9f&layout=compact&langs_count=7&theme=react"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitor0p9f&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitor0p9f&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor0p9f&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitor0p9f&theme=react"/>
 </div>
