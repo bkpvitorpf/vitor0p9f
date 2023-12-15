@@ -34,7 +34,7 @@ Para executar este projeto em sua própria máquina, você pode escolher entre a
 
 #### :construction: Requisitos
 
-* Ter o Docker instalado em sua máquina.
+* Ter o Docker instalado e configurado em sua máquina.
 
 #### 2. Monte uma imagem do projeto utilizando o seguinte comando:
 
@@ -44,13 +44,22 @@ docker build -t [nome_do_projeto] .
 
 A imagem criada terá o mesmo nome do projeto.
 
-####
+#### 3. Crie um container com base na imagem recém criada utilizando o comando:
+
+```bash
+docker run -it --name [nome_do_projeto] [nome_do_projeto]
+```
+
+O comando acima utilizará a imagem criada, que tem o nome do projeto, para criar um container com o nome do projeto.
+
+Após rodar o comando acima, o terminal do container deve abrir automaticamente, já executando o código do projeto.
 
 ### :link: Instalando as dependências
 
 #### :construction: Requisitos
 
-* Ter o Ruby instalado em sua máquina.
+* Ter o Ruby instalado em sua máquina
+* Aconselho a utilizar ferramentas como RVM ou rbenv para permitir a instalação de Gems sem permissão de administrador.
 
 #### 2. Instale as dependências do projeto rodando o comando:
 
