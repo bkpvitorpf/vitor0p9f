@@ -3,7 +3,7 @@
 </div>
 <br/>
 
-:book: Estudando de engenharia da computaçao.
+:book: Estudante de engenharia da computaçao.
 
 :computer: Apaixonado por desenvolvimento e tecnologia.
 
