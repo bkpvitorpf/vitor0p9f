@@ -1,5 +1,6 @@
 <div align = "center">
-  <h1>Olá :wave:, me chamo Vítor</h1>
+  
+  # Olá :wave:, me chamo Vítor
 </div>
 <br/>
 
@@ -7,14 +8,14 @@
 
 :computer: Apaixonado por desenvolvimento e tecnologia.
 
-<h3>:wrench: Linguagens e ferramentas que utilizo atualmente</h3>
+## :wrench: Linguagens e ferramentas que utilizo atualmente
 <br>
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
-<h3>:calling: Entre em contato comigo</h3>
+## :calling: Entre em contato comigo
 <br>
 
 <div>
@@ -22,6 +23,6 @@
   <a href = "https://www.linkedin.com/in/vitor-pereira-fontes-33711a220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-<h3>:star: Projetos em destaque</h3>
+## :star: Projetos em destaque
 
 * Ainda trabalhando nisso
