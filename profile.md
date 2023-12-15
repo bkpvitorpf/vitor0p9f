@@ -7,7 +7,7 @@
 
 :computer: Apaixonado por desenvolvimento e tecnologia.
 
-<h3>:wrench: Linguagens e ferramentas que utilizo</h3>
+<h3>:wrench: Linguagens e ferramentas que utilizo atualmente</h3>
 <br>
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
