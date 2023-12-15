@@ -1,25 +1,67 @@
 <div align="center">
   
-  # Nome do projeto
+  # Caso de estudo - Nome do projeto
 </div>
 
-## Gems utilizadas
+Aqui entra um breve descrição do que é o projeto e porque ele foi desenvolvido.
 
-## Padrões de projeto utilizados
+## :gem: Gems utilizadas
 
-## Conhecimentos adquiridos
+## :page_facing_up: Padrões de projeto utilizados
 
-## Desafios encontrados
+## :pushpin: Conhecimentos adquiridos
 
-## Executando o projeto
+## :triangular_flag_on_post: Desafios encontrados
+
+## :rocket: Executando o projeto 
+
+### 1. Clonando o repositório
+
+Clone este repositório em sua máquina utilizando o seguinte comando no terminal:
+
+```bash
+git clone 
+```
+
+Após o repositório estar em sua máquina, entre no diretório recém clonado.
 
 Para executar este projeto em sua própria máquina, você pode escolher entre as opções:
 
-* Executar o projeto usando Docker
-* Executar o projeto sem o Docker
+* Executar o projeto usando Docker.
+* Executar o projeto instalando as dependências.
 
-## Com docker
+### :whale2: Utilizando o Docker
 
-## Sem docker
+#### :construction: Requisitos
 
-#### Requisitos
+* Ter o Docker instalado em sua máquina.
+
+#### 2. Monte uma imagem do projeto utilizando o seguinte comando:
+
+```bash
+docker build -t [nome_do_projeto] .
+```
+
+A imagem criada terá o mesmo nome do projeto.
+
+####
+
+### :link: Instalando as dependências
+
+#### :construction: Requisitos
+
+* Ter o Ruby instalado em sua máquina.
+
+#### 2. Instale as dependências do projeto rodando o comando:
+
+```bash
+bundle install
+```
+
+#### 3. Execute o projeto rodando o comando:
+
+```bash
+ruby ./main.rb
+```
+
+
