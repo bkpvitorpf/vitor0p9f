@@ -1,9 +1,9 @@
 <div align="center">
   
-  # Caso de estudo - Nome do projeto
+  # Repositório de estudo - Nome do projeto
 </div>
 
-Aqui entra um breve descrição do que é o projeto e porque ele foi desenvolvido.
+[Aqui entra um breve descrição do que é o projeto e porque ele foi desenvolvido].
 
 ## :gem: Gems utilizadas
 
@@ -50,7 +50,7 @@ A imagem criada terá o mesmo nome do projeto.
 docker run -it --name [nome_do_projeto] [nome_do_projeto]
 ```
 
-O comando acima utilizará a imagem criada, que tem o nome do projeto, para criar um container com o nome do projeto.
+O comando acima utilizará a imagem criada anteriormente para criar um container com o nome do projeto.
 
 Após rodar o comando acima, o terminal do container deve abrir automaticamente, já executando o código do projeto.
 
