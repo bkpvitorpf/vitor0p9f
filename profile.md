@@ -1,4 +1,13 @@
 <div align = "center">
+  <p>This README is available in the following languages:</p>
+  <br/>
+  
+  <a href = "#" target="_blank">
+    <img src="https://img.shields.io/badge/Language-English-blue"/>
+  </a>
+</div>
+
+<div align = "center">
   
   # Olá :wave:, me chamo Vítor
 </div>
@@ -13,7 +22,7 @@
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
 
 ## :calling: Entre em contato comigo
 <br>
@@ -25,4 +34,4 @@
 
 ## :star: Projetos em destaque
 
-* Ainda trabalhando nisso
+* Ainda trabalhando nisso.
