@@ -3,7 +3,7 @@
   <br/>
   
   <a href = "#" target="_blank">
-    <img src="https://img.shields.io/badge/Language-Português-green"/>
+    <img src="https://img.shields.io/badge/Language-Portuguese-green"/>
   </a>
 </div>
 
