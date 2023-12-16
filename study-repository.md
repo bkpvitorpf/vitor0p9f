@@ -1,3 +1,12 @@
+<div align = "center">
+  <p>This README is available in the following languages:</p>
+  <br/>
+  
+  <a href = "#" target="_blank">
+    <img src="https://img.shields.io/badge/Language-English-blue"/>
+  </a>
+</div>
+
 <div align="center">
   
   # Repositório de estudo - Nome do projeto
