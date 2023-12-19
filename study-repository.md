@@ -24,13 +24,7 @@
 
 ## :rocket: Executando o projeto 
 
-### 1. Clonando o repositório
-
-Clone este repositório em sua máquina utilizando o seguinte comando no terminal:
-
-```bash
-git clone 
-```
+### 1. Clone o repositório em suaa máquina
 
 Após o repositório estar em sua máquina, entre no diretório recém clonado.
 
