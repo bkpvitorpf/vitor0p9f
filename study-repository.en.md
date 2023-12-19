@@ -26,12 +26,6 @@
 
 ### 1. Cloning the repository
 
-Clone the repository on your machine using the following command in the terminal:
-
-```bash
-git clone [link_do_repositorio]
-```
-
 After the repository is on your machine, enter the newly cloned directory.
 
 To run this project on your own machine, you can choose between the options:
@@ -62,6 +56,12 @@ docker run -it --name [nome_do_projeto] [nome_do_projeto]
 The above command will use the previously created image to create a container with the project name.
 
 After running the above command, the container terminal should open automatically, already running the project code.
+
+Para executar o projeto novamente, sem criar um novo contêiner, basta rodar o seguinte comando:
+
+```bash
+docker start -i ruby-caesar-cipher
+```
 
 ### :link: Installing dependencies
 
