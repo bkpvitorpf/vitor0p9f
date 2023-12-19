@@ -12,7 +12,7 @@
   # Repositório de estudo - Nome do projeto
 </div>
 
-[Aqui entra um breve descrição do que é o projeto e porque ele foi desenvolvido].
+[Aqui entra um breve descrição do que é o projeto e por que ele foi desenvolvido].
 
 ## :gem: Gems utilizadas
 
@@ -53,17 +53,17 @@ docker build -t [nome_do_projeto] .
 
 A imagem criada terá o mesmo nome do projeto.
 
-#### 3. Crie um container com base na imagem recém criada utilizando o comando:
+#### 3. Crie um contêiner com base na imagem recém criada utilizando o comando:
 
 ```bash
 docker run -it --name [nome_do_projeto] [nome_do_projeto]
 ```
 
-O comando acima utilizará a imagem criada anteriormente para criar um container com o nome do projeto.
+O comando acima utilizará a imagem criada anteriormente para criar um contêiner com o nome do projeto.
 
-Após rodar o comando acima, o terminal do container deve abrir automaticamente, já executando o código do projeto.
+Após rodar o comando acima, o terminal do contêiner deve abrir automaticamente, já executando o código do projeto.
 
-Para executar o projeto novamente, sem criar um novo container, basta rodar o seguinte comando:
+Para executar o projeto novamente, sem criar um novo contêiner, basta rodar o seguinte comando:
 
 ```bash
 docker start -i [nome_do_projeto]
@@ -87,5 +87,3 @@ bundle install
 ```bash
 ruby ./main.rb
 ```
-
-
