@@ -63,6 +63,12 @@ O comando acima utilizará a imagem criada anteriormente para criar um container
 
 Após rodar o comando acima, o terminal do container deve abrir automaticamente, já executando o código do projeto.
 
+Para executar o projeto novamente, sem criar um novo container, basta rodar o seguinte comando:
+
+```bash
+docker start -i [nome_do_projeto]
+```
+
 ### :link: Instalando as dependências
 
 #### :construction: Requisitos
